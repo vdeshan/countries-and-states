@@ -27,7 +27,7 @@ return [
         'phone_code' => '+1684',
         'name' => 'American Samoa',
         'iso' => 'AS',
-        'state_status' => 1,
+        'state_status' => 0,
     ],
     "AD" => [
         'id' => 5,
@@ -48,7 +48,7 @@ return [
         'phone_code' => '+1264',
         'name' => 'Anguilla',
         'iso' => 'AI',
-        'state_status' => 1,
+        'state_status' => 0,
     ],
     "AG" => [
         'id' => 8,
@@ -244,7 +244,7 @@ return [
         'phone_code' => '+1345',
         'name' => 'Cayman Islands',
         'iso' => 'KY',
-        'state_status' => 1,
+        'state_status' => 0,
     ],
     "CF" => [
         'id' => 36,
@@ -307,7 +307,7 @@ return [
         'phone_code' => '+682',
         'name' => 'Cook Islands',
         'iso' => 'CK',
-        'state_status' => 1,
+        'state_status' => 0,
     ],
     "CR" => [
         'id' => 45,
@@ -440,14 +440,14 @@ return [
         'phone_code' => '+500',
         'name' => 'Falkland Islands (Malvinas)',
         'iso' => 'FK',
-        'state_status' => 1,
+        'state_status' => 0,
     ],
     "FO" => [
         'id' => 64,
         'phone_code' => '+298',
         'name' => 'Faroe Islands',
         'iso' => 'FO',
-        'state_status' => 1,
+        'state_status' => 0,
     ],
     "FJ" => [
         'id' => 65,
@@ -510,7 +510,7 @@ return [
         'phone_code' => '+350',
         'name' => 'Gibraltar',
         'iso' => 'GI',
-        'state_status' => 1,
+        'state_status' => 0,
     ],
     "GR" => [
         'id' => 74,
@@ -538,14 +538,14 @@ return [
         'phone_code' => '+590',
         'name' => 'Guadeloupe',
         'iso' => 'GP',
-        'state_status' => 1,
+        'state_status' => 0,
     ],
     "GU" => [
         'id' => 78,
         'phone_code' => '+1671',
         'name' => 'Guam',
         'iso' => 'GU',
-        'state_status' => 1,
+        'state_status' => 0,
     ],
     "GT" => [
         'id' => 79,
@@ -587,7 +587,7 @@ return [
         'phone_code' => '+39',
         'name' => 'Holy See (Vatican City State)',
         'iso' => 'VA',
-        'state_status' => 1,
+        'state_status' => 0,
     ],
     "HN" => [
         'id' => 85,
@@ -804,7 +804,7 @@ return [
         'phone_code' => '+853',
         'name' => 'Macao',
         'iso' => 'MO',
-        'state_status' => 1,
+        'state_status' => 0,
     ],
     "MK" => [
         'id' => 116,
@@ -853,14 +853,14 @@ return [
         'phone_code' => '+356',
         'name' => 'Malta',
         'iso' => 'MT',
-        'state_status' => 1,
+        'state_status' => 0,
     ],
     "MQ" => [
         'id' => 123,
         'phone_code' => '+596',
         'name' => 'Martinique',
         'iso' => 'MQ',
-        'state_status' => 1,
+        'state_status' => 0,
     ],
     "MR" => [
         'id' => 124,
@@ -881,7 +881,7 @@ return [
         'phone_code' => '+269',
         'name' => 'Mayotte',
         'iso' => 'YT',
-        'state_status' => 1,
+        'state_status' => 0,
     ],
     "MX" => [
         'id' => 127,
@@ -909,7 +909,7 @@ return [
         'phone_code' => '+377',
         'name' => 'Monaco',
         'iso' => 'MC',
-        'state_status' => 1,
+        'state_status' => 0,
     ],
     "MN" => [
         'id' => 131,
@@ -923,7 +923,7 @@ return [
         'phone_code' => '+1664',
         'name' => 'Montserrat',
         'iso' => 'MS',
-        'state_status' => 1,
+        'state_status' => 0,
     ],
     "MA" => [
         'id' => 133,
@@ -958,7 +958,7 @@ return [
         'phone_code' => '+674',
         'name' => 'Nauru',
         'iso' => 'NR',
-        'state_status' => 1,
+        'state_status' => 0,
     ],
     "NP" => [
         'id' => 138,
@@ -986,7 +986,7 @@ return [
         'phone_code' => '+687',
         'name' => 'New Caledonia',
         'iso' => 'NC',
-        'state_status' => 1,
+        'state_status' => 0,
     ],
     "NZ" => [
         'id' => 142,
@@ -1021,14 +1021,14 @@ return [
         'phone_code' => '+683',
         'name' => 'Niue',
         'iso' => 'NU',
-        'state_status' => 1,
+        'state_status' => 0,
     ],
     "NF" => [
         'id' => 147,
         'phone_code' => '+672',
         'name' => 'Norfolk Island',
         'iso' => 'NF',
-        'state_status' => 1,
+        'state_status' => 0,
     ],
     "NO" => [
         'id' => 148,
@@ -1091,7 +1091,7 @@ return [
         'phone_code' => '+0',
         'name' => 'Pitcairn Islands',
         'iso' => 'PN',
-        'state_status' => 1,
+        'state_status' => 0,
     ],
     "PL" => [
         'id' => 157,
@@ -1126,7 +1126,7 @@ return [
         'phone_code' => '+262',
         'name' => 'Reunion',
         'iso' => 'RE',
-        'state_status' => 1,
+        'state_status' => 0,
     ],
     "RO" => [
         'id' => 162,
@@ -1266,28 +1266,28 @@ return [
         'phone_code' => '+290',
         'name' => 'St. Helena',
         'iso' => 'SH',
-        'state_status' => 1,
+        'state_status' => 0,
     ],
     "KN" => [
         'id' => 182,
         'phone_code' => '+1869',
         'name' => 'St. Kitts & Nevis',
         'iso' => 'KN',
-        'state_status' => 1,
+        'state_status' => 0,
     ],
     "LC" => [
         'id' => 183,
         'phone_code' => '+1758',
         'name' => 'St. Lucia',
         'iso' => 'LC',
-        'state_status' => 1,
+        'state_status' => 0,
     ],
     "PM" => [
         'id' => 184,
         'phone_code' => '+508',
         'name' => 'St. Pierre and Miquelon',
         'iso' => 'PM',
-        'state_status' => 1,
+        'state_status' => 0,
     ],
     "VC" => [
         'id' => 185,
@@ -1308,7 +1308,7 @@ return [
         'phone_code' => '+597',
         'name' => 'Suriname',
         'iso' => 'SR',
-        'state_status' => 1,
+        'state_status' => 0,
     ],
     "SZ" => [
         'id' => 188,
@@ -1350,7 +1350,7 @@ return [
         'phone_code' => '+992',
         'name' => 'Tajikistan',
         'iso' => 'TJ',
-        'state_status' => 1,
+        'state_status' => 0,
     ],
     "TZ" => [
         'id' => 194,
@@ -1378,7 +1378,7 @@ return [
         'phone_code' => '+690',
         'name' => 'Tokelau',
         'iso' => 'TK',
-        'state_status' => 1,
+        'state_status' => 0,
     ],
     "TO" => [
         'id' => 198,
@@ -1420,14 +1420,14 @@ return [
         'phone_code' => '+1649',
         'name' => 'Turks and Caicos Islands',
         'iso' => 'TC',
-        'state_status' => 1,
+        'state_status' => 0,
     ],
     "TV" => [
         'id' => 204,
         'phone_code' => '+688',
         'name' => 'Tuvalu',
         'iso' => 'TV',
-        'state_status' => 1,
+        'state_status' => 0,
     ],
     "UG" => [
         'id' => 205,
@@ -1518,7 +1518,7 @@ return [
         'phone_code' => '+681',
         'name' => 'Wallis and Futuna',
         'iso' => 'WF',
-        'state_status' => 1,
+        'state_status' => 0,
     ],
     "YE" => [
         'id' => 218,
